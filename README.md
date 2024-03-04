@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning HTML
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Instagram:gsanches11
-- ⚡ Fun fact:Me adapto bem rapido
+- ⚡ Fun fact:Consigo aprender rapido programação
 
 <!---
 PreinX/PreinX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
